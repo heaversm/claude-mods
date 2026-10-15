@@ -1,4 +1,4 @@
-# my-mods
+# claude-mods
 
 Claude Code mods. Early access: the mod API may change between Claude Code releases.
 
