@@ -1,0 +1,9 @@
+{
+  "name": "pins",
+  "version": "0.1.0",
+  "description": "Pin highlighted conversation text above the prompt; \u00d7 clears a pin",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Mike Heavers"
+  }
+}

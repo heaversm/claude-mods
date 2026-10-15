@@ -1,0 +1,14 @@
+{
+  "name": "my-mods",
+  "owner": {
+    "name": "Mike Heavers"
+  },
+  "plugins": [
+    {
+      "name": "pins",
+      "source": "./pins",
+      "description": "Pin highlighted conversation text above the prompt; \u00d7 clears a pin"
+    }
+  ],
+  "description": "Claude Code mods by Mike Heavers"
+}
