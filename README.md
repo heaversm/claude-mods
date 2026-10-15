@@ -17,7 +17,7 @@ Reading a highlight needs Claude Code's fullscreen layout (the default outside t
 At the Claude Code prompt:
 
 ```
-/plugin install pins --marketplace <owner>/<repo>
+/plugin install pins --marketplace heaversm/claude-mods
 ```
 
 Answer `y` to add the marketplace, then pick the user scope.
